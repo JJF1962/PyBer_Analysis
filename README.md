@@ -7,4 +7,9 @@ It was a very challenging, in my case from the beginning to the end, It was nece
 
 ![This is an image](https://github.com/JJF1962/PyBer_Analysis/blob/main/Capture.%20Comp%20Urban%2C%20rural%20suburban.PNG)
 
+It is important to mention, that the Urban areas have the majority of the drivers, consequentially the average fare per ride is the lowest US$ 24.53 if we compare with the oter two categories.
+
+As you can see in the plot below, the fare lines run and and never cross one with eah other, also shows that the fares are higher in some periods more than other , with tendency to continue growing.
+
+![This is and image](
 ##  Summary
