@@ -6,7 +6,7 @@ Python, Jupyter Notebook, handle csv files determine, mean, median and mode usin
 ##  Results
 It was a very challenging, in my case from the beginning to the end, It was necessary to use differnt  codes to generate charts, dataframe and one graph that allowed to present a better visualization of the data, it was clearly identified that the urban sector (cities), contribute with the biggest Total fares and the largest quantities of rides, followed by the suburban and lastly by the rural areas as shown in the figure below. 
 
-![This is an image](https://github.com/JJF1962/PyBer_Analysis/blob/main/Capture.%20Comp%20Urban%2C%20rural%20suburban.PNG)
+![This is an image](https://github.com/JJF1962/PyBer_Analysis/blob/main/Capture.%20Pyber_fare_Summary.PNG)
 
 It is important to mention, that the Urban areas have the majority of the drivers, consequentially the average fare per ride is the lowest US$ 24.53, if we compare with the other two categories.
 
